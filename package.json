@@ -1,5 +1,5 @@
 {
-  "name": "tariff",
+  "name": "tariff-nodejs",
   "version": "1.0.0",
   "description": "Make importing great again! A parody package that imposes tariffs on Node.js requires.",
   "main": "lib/index.js",
@@ -21,6 +21,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/tariff-nodejs"
+    "url": "https://github.com/marcgauthier0/tariff-nodejs"
+  },
+  "dependencies": {
+    "tariff-nodejs": "^1.0.1"
   }
-} 
+}

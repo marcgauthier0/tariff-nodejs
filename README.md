@@ -11,8 +11,10 @@ This is a Node.js port of the original [Python tariff package](https://github.co
 ## Installation
 
 ```bash
-npm install tariff
+npm install tariff-nodejs
 ```
+
+[Available on npm](https://www.npmjs.com/package/tariff-nodejs)
 
 ## Usage
 
