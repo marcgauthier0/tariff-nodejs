@@ -1,0 +1,26 @@
+{
+  "name": "tariff",
+  "version": "1.0.0",
+  "description": "Make importing great again! A parody package that imposes tariffs on Node.js requires.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node example.js",
+    "start": "node example.js"
+  },
+  "keywords": [
+    "import",
+    "require",
+    "tariff",
+    "parody",
+    "monkey-patch"
+  ],
+  "author": "Node.js Economist",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/tariff-nodejs"
+  }
+} 
